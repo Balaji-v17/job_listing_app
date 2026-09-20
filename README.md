@@ -117,10 +117,14 @@ final JobRepository jobRepository = RemoteJobService();
 
 ## Screenshots
 
-_Add screenshots here after running the app — Home (list), search/filter in
-action, Job Details, Favorites, and dark mode are the most useful ones to
-include for the submission._
+## Screenshots
 
+## Screenshots
+
+![Home Screen Light](screenshots/Screenshot%202026-09-20%20at%2011.20.16 AM.png)
+![Home Screen Filtered](screenshots/Screenshot%202026-09-20%20at%2011.20.47 AM.png)
+![Job Details Clean Text](screenshots/Screenshot%202026-09-20%20at%2011.20.28 AM.jpg)
+![Home Screen Dark](screenshots/Screenshot%202026-09-20%20at%2011.06.13 AM_2.png)
 ## Known limitations
 
 - **Pagination is client-side** — the mock dataset is fetched in one request
